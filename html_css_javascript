@@ -1,3 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8"> 
+  <title> Practice </title> 
+  <script>
+    function firstFunction () {
+    let a = parseFloat.getElementById('firstInput'); 
+    let b = parseFloat.getElementById('secondInput');
+    }
+  </script> 
+</head>
+<body>
+  <h1>Header</h1>
+  <input type="text" id="firstInput"></input>
+  <input type="text" id="secondInput"></input>
+</body>
 </html>
